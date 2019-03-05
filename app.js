@@ -17,8 +17,6 @@ let box = document.getElementsByClassName("box");
 let clickable = true;
 let click = 0;
 
-//Kişilerin değil, şirketlerin sosyal ağı
-
 
 boxes.onclick = function(event){
     
